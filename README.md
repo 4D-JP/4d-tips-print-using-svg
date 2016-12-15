@@ -111,7 +111,7 @@ SET PRINTABLE MARGIN($marginLeft;$marginTop;$marginRight;$marginBottom)
 
 ###気づいたこと
 
-15R5（64ビット/Cocoa版）だと用紙の淵いっぱいまで印刷ができました。
+15R5（64ビット/Cocoa版）だと用紙の縁いっぱいまで印刷ができました。
 
 15.x（32ビット/Carbon版）だと，超えられないマージンの壁があります。
 
